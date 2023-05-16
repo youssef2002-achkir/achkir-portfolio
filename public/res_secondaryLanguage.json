@@ -1,0 +1,120 @@
+{
+    "basic_info": {
+      "description_header": "Bonjour",
+      "description": "👋 Je suis Youssef Achkir. Personne fictive à des fins de prévisualisation :) Je travaille avec les nouveaux frameworks de développement Web comme Angular, Spring Boot et React. Je suis un étudiant en génie logiciel passionné avec de l'expérience dans le développement web, j'ai eu l'opportunité de travailler sur divers projets de développement web, notamment la création de sites web responsive et la mise en place de fonctionnalités interactives. J'ai également une bonne connaissance des principes de conception UX/UI, ce qui me permet de créer des interfaces conviviales et intuitives",
+      "section_name": {
+        "about": "Sur moi",
+        "projects": "Projets",
+        "skills": "compétences",
+        "experience": "Expérience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Trip Helper",
+        "startDate": "2020",
+        "description": "L'application la plus étendue avec laquelle j'ai eu l'occasion de travailler. J'ai appris de nombreuses fonctionnalités de printemps et des conseils impressionnants. L'application permet aux voyageurs de trouver facilement des endroits à visiter lorsqu'ils se trouvent dans de nouvelles villes.",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/p2.jpg"
+        ],
+        "url": "https://github.com/youssef2002-achkir/Trip-help",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-spring-plain",
+            "name": "Spring Boot"
+          }
+          
+        ]
+      },
+      {
+        "title": "Conteneurisation",
+        "startDate": "2022",
+        "description": "Projet personnel pour sujet d'étude. J'étais responsable de la conteneurisation d'une application mern stack, avec de nombreux outils tels que Docker, Docker compose, Kubernetes et Ingres.:)",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://github.com/youssef2002-achkir/Containerzation",
+        "technologies": [
+          {
+            "class": "devicon-docker-plain",
+            "name": "Docker"
+          },
+          {
+            "class": "devicon-kubernetes-plain",
+            "name": "Kubernetes"
+          }
+        ]
+      },
+      {
+        "title": "Appointment App",
+        "startDate": "2023",
+        "description": "Un de mes projets académiques. Nous devions développer une implémentation complète d'une plateforme permettant aux patients de prendre rendez-vous avec leurs médecins. C'était aussi la première fois que je travaillais avec React et Spring Boot dans le même projet. J'ai beaucoup appris !",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-spring-plain",
+            "name": "Spring Boot"
+          },
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "OCPGroupes",
+        "title": "Stage en developement mobile",
+        "years": "08/2022-09/2022",
+        "mainTech": [
+          "Java"
+        ],
+        "technologies": [
+          "Android",
+          "Gradle",
+          "Xml",
+          "Firebase",
+          "Java"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "school": "Lycee technique",
+        "title": "Technologies et sciences electriques",
+        "years": "09/2016-06/2019",
+        "schoolSite": [
+          "Chichaoua"
+        ]
+      },
+      
+      {
+        "school": "Classes preparatoire",
+        "title": "Technologies et sciences industriels",
+        "years": "09/2019-06/2021",
+        "schoolSite": [
+          "Safi"
+        ]
+      },
+      {
+        "school": "INPT",
+        "title": "Etudiant en genie logiciel",
+        "years": "09/2021-present",
+        "schoolSite": [
+          "Rabat"
+        ]
+      }
+      
+    ]
+  }

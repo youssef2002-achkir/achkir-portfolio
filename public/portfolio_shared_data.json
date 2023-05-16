@@ -1,0 +1,68 @@
+{
+    "basic_info": {
+      "name": "Achkir Youssef",
+      "titles": [ "Front-end Developer", "Back-end Developer","Mobile App Developer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/youssef2002-achkir",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/youssef-achkir/",
+          "class": "fab fa-linkedin"
+        }
+      ],
+      "image": "my-portfolio-img.png"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "Angular",
+          "class": "devicon-angularjs-plain",
+          "level": "80"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-original",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "Java",
+          "class": "devicon-java-plain",
+          "level": "75"
+        },
+        {
+          "name": "Spring Boot",
+          "class": "devicon-spring-plain",
+          "level": "85"
+        },
+        {
+          "name": "Figma",
+          "class": "devicon-figma-plain",
+          "level": "65"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        }
+      ]
+    }
+  }
